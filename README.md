@@ -8,11 +8,11 @@ Below is a list of problems I’ve completed, with links to the solutions:
 | #  | Problem Name | Solution |
 |----|-------------|----------|
 | 1  | Two Sum | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/TwoSum.java) |
-| 2  | Roman to Integer | [View]([./solutions/reverse_integer.java](https://leetcode.com/submissions/detail/1543750423/)) |
-| 3  | Palindrome Number | [View]([./solutions/merge_sorted_array.java](https://leetcode.com/submissions/detail/1545564994/)) |
-| 4  | Single Number | [View]([./solutions/merge_sorted_array.java](https://leetcode.com/submissions/detail/1549028171/)) |
-| 5  | Missing Number | [View]([./solutions/merge_sorted_array.java](https://leetcode.com/submissions/detail/1554297587/)) |
-| 6  | Search Insert Position | [View]([./solutions/merge_sorted_array.java](https://leetcode.com/submissions/detail/1570189664/)) |
+| 2  | Roman to Integer | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/RomanToInt.java) |
+| 3  | Palindrome Number | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/Palyndrome.java) |
+| 4  | Single Number | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/SingleNumber.java) |
+| 5  | Missing Number | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/MissingNumber.java) |
+| 6  | Search Insert Position | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/InsertPosition.java) |
 
 ## 🔗 Repository Link
 Check out my solutions on GitHub: [GitHub Repository](https://github.com/danielnserpa/leetcode-exercises)
