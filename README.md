@@ -13,6 +13,7 @@ Below is a list of problems I’ve completed, with links to the solutions and th
 | 4  | Single Number       | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/SingleNumber.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 5  | Missing Number      | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/MissingNumber.java) | [LeetCode](https://leetcode.com/problems/missing-number/) |
 | 6  | Search Insert Position | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/InsertPosition.java) | [LeetCode](https://leetcode.com/problems/search-insert-position/) |
+| 7  | Search String in a String | [View](https://github.com/danielnserpa/leetcode-exercises/blob/main/FirstOccurrenceInAString.java) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
 
 
 ## 🔗 Repository Link
