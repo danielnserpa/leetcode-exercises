@@ -19,6 +19,7 @@ public class FirstOccurrenceInAString {
         System.out.println(strStr("a", "a"));
         System.out.println(strStr("leetcode", "leeto"));
         System.out.println(strStr("daniel", "el"));
+        System.out.println(strStr("ROBERTO", "rob"));
 
     }
 }
