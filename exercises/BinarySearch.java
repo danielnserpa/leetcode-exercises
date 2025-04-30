@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.exercises;
 
 import java.util.Arrays;
 
