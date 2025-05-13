@@ -13,6 +13,7 @@ public class MissingNumber {
                 numberMissing++;
             }
 
+
         }
         return numberMissing;
     }
